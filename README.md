@@ -10,11 +10,11 @@ Every folder here represents a step in my journey as a developer, designer, and 
 ##  What You'll Find Inside
 
 ### Python Games
-Three playful projects where I turned logic into fun.  
+Playful projects where I turned logic into fun.  
 Think of them as experiments in creativity, problem-solving, and making code *interactive*.
 
-### Learning Codes
-Four Python exercises that capture my learning curve — from fundamentals to algorithms.  
+### Python Fun
+Fun python exercises that contribute to my learning journey.  
 They’re small, but they show how I build foundations brick by brick.
 
 ### Final Year Group Project
