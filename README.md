@@ -20,7 +20,7 @@ They’re small, but they show how I build foundations brick by brick.
 ### Final Year Group Project
 - **GitHub Link**: [Explore the Project](https://github.com/botsheloseitshiro/VolunterHub-ITPV302-Project.git)  
 - **Video Preview**: A guided tour of the website we built as a team.  
-This project taught me collaboration, persistence, and the art of aligning backend/frontend layers.
+This project taught me collaboration, persistence, and the art of aligning backend/frontend layers.The project was developed using **ASP.NET Core** for the backend and **React with Material UI** for the frontend. 
 
 ### Design Project
 A Figma prototype where I explored **UI/UX design**.  
