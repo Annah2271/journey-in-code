@@ -29,6 +29,9 @@ Because good code deserves good design — and users deserve clarity.
 ### Web Portfolio
 My personal portfolio site, where I bring everything together in one professional showcase.
 
+### Student To‑Do Application (Android Studio)  
+Developed a mobile app for students and teachers to manage coursework and tasks. The system included three user roles — students, teachers, and admin — each with secure login and role‑based dashboards. Students could register, log in, add tasks, and mark them as complete. Teachers could upload coursework for students, while the admin had full system access. The app ensured that users could only access features relevant to their role, improving accountability and task management.
+
 ---
 
 ## Why This Repo Exists
